@@ -1,0 +1,40 @@
+.Contenedor-Descargas-Logico {
+    margin: left;
+    padding: 0px 20px;
+    width: 80%;
+    flex-wrap: wrap;
+}
+.Contenedor-Descargas-Decorativo {
+    background: #ac42ac;
+    border: 2px solid #000000;
+    box-shadow: 4px 4px 4px #000000;
+    padding: 20px 20px;
+    margin-bottom: 20px;
+}
+.Contenerdor-Texto-Decoracion {
+    display: block;
+    background: #d152d1;
+    color: #000000;
+    padding: 8px 8px;
+    font-size: 16px;
+    font-family: Verdana;
+}
+.Boton-Descargar {
+    display: inline-block;
+    background: #ff25ff;
+    color: #ffffff;
+    padding: 14px 12px;
+    text-decoration: none;
+    margin-bottom: 14;
+    font-family: Verdana;
+}
+.Boton-Descargar:hover {
+    background: #ff5aff;
+}
+
+#Texto-Pincipal-Descarga {
+    font-family: Helvetica;
+    font-size: 20px;
+    color: #000000;
+    margin-bottom: 20px;
+}

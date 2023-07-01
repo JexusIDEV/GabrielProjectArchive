@@ -1,0 +1,19 @@
+.Texto-Derecho {
+    text-align: right;
+}
+
+.Centrar-Texto {
+    text-align: center;
+}
+
+.Texto-Izquierda {
+    text-align: left;
+}
+
+.Flexible {
+    display: flex;
+}
+
+.Envolvente {
+    flex-wrap: wrap;
+}

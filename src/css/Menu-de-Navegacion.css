@@ -1,0 +1,28 @@
+.Decoracion-Navegacion {
+    display: flex;
+    justify-content: flex-end;
+    background: #410e5f;
+    padding: 12px 12px;
+}
+
+.Boton-MenuPrincipal-Navagacion {
+    display: none;
+    background: #ff25ff;
+    color: #ffffff;
+    padding: 14px 12px;
+    border: 0px;
+}
+.Boton-MenuPrincipal-Navagacion:hover {
+    background: #ff71ff;
+}
+
+.Boton-Principal-Navagacion {
+    display: flexbox;
+    background: #ff25ff;
+    color: #ffffff;
+    padding: 14px 12px;
+    text-decoration: none;
+}
+.Boton-Principal-Navagacion:hover {
+    background: #ff71ff;
+}
